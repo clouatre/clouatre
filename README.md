@@ -1,6 +1,3 @@
-Technology executive with senior leadership experience at AWS and Oracle. Guest Professor at HEC Montreal teaching leadership and management.
-
-**Director, Platform Engineering** – Slalom  
 **Amazon Bar Raiser** | **AWS Senior Speaker** | **Linux Foundation Inclusive Speaker**
 
 Expert in AI/ML solutions, advanced platform engineering, and enterprise modernization for regulated industries. Leverages cutting-edge LLMOps and context engineering alongside deep Unix/Linux expertise to drive mission-critical transformations.
