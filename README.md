@@ -1,5 +1,3 @@
-# Hugues Clouâtre
-
 Technology executive with senior leadership experience at AWS and Oracle. Guest Professor at HEC Montreal teaching leadership and management.
 
 **Director, Platform Engineering** – Slalom  
