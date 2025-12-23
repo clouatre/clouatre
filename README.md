@@ -8,11 +8,7 @@ Fluent in English and French.
 
 ---
 
-### My Stats
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="400" />
   <img src="https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/github_dark/3-stats.svg" width="400" />
 </p>
-
-
