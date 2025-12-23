@@ -10,16 +10,16 @@ Fluent in English and French.
 
 ### My Stats
 
-![](https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/dracula/0-profile-details.svg)
+![](https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/dracula/1-repos-per-language.svg" width="400" />
-  <img src="https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/dracula/2-most-commit-language.svg" width="400" />
+  <img src="https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="400" />
+  <img src="https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/dracula/3-stats.svg" width="400" />
-  <img src="https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/dracula/4-productive-time.svg" width="400" />
+  <img src="https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/tokyonight/3-stats.svg" width="400" />
+  <img src="https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="400" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=clouatre&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=clouatre&theme=tokyonight)](https://git.io/streak-stats)
