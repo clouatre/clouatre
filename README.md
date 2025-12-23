@@ -15,4 +15,4 @@ Fluent in English and French.
   <img src="https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/github_dark/3-stats.svg" width="400" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=clouatre&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=clouatre&theme=tokyonight&v=1)
