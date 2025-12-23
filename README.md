@@ -13,11 +13,6 @@ Fluent in English and French.
 ![](https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="400" />
-  <img src="https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="400" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/tokyonight/3-stats.svg" width="400" />
   <img src="https://raw.githubusercontent.com/clouatre/clouatre/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="400" />
 </p>
