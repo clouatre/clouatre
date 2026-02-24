@@ -9,7 +9,7 @@ I help engineering leaders modernize mission-critical platforms for regulated in
 
 - [setup-goose-action](https://github.com/clouatre-labs/setup-goose-action) — GitHub Action to install and cache Goose AI agent on GitHub-hosted runners
 - [setup-kiro-action](https://github.com/clouatre-labs/setup-kiro-action) — GitHub Action to install and cache Kiro CLI with headless SIGV4 auth for AI-augmented CI/CD
-- [aptu](https://github.com/clouatre-labs/aptu) — Homebrew tap utility
+- [aptu](https://github.com/clouatre-labs/aptu) — CLI for OSS issue triage with AI assistance, built as a context-engineering experiment
 - [math-mcp-learning-server](https://github.com/clouatre-labs/math-mcp-learning-server) — Educational MCP server with 17 tools, on the official MCP Registry
 
 ## What I Write → [clouatre.ca](https://clouatre.ca)
