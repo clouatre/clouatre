@@ -17,5 +17,3 @@ Writing at [clouatre.ca](https://clouatre.ca).
 | [Orchestrating AI Agents: A Subagent Architecture](https://clouatre.ca/posts/orchestrating-ai-agents-subagent-architecture/) | 24 Dec 2025 |
 | [AI-Assisted Development: The Accountability Layer](https://clouatre.ca/posts/ai-assisted-development/) | 07 Nov 2025 |
 | [RAG for Legacy Systems: 7,432 Pages to 3s](https://clouatre.ca/posts/rag-legacy-systems/) | 23 Jan 2026 |
-
-Top five posts by measured readership (Cloudflare analytics audit, August 2026). More on [clouatre.ca](https://clouatre.ca).
