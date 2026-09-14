@@ -11,6 +11,13 @@ Writing at [clouatre.ca](https://clouatre.ca).
 ### Recent writing
 
 <!-- recent-writing starts -->
+| Post | Date |
+| --- | --- |
+| [AI-Assisted Development: The Accountability Layer](https://clouatre.ca/posts/ai-assisted-development/) | 09 Sep 2026 |
+| [AI SDLC Governance: Three Layers for Engineering Leaders](https://clouatre.ca/posts/ai-sdlc-governance-stack/) | 02 Sep 2026 |
+| [AI-Augmented CI/CD: Shift Left Security With Bounded Risk](https://clouatre.ca/posts/ai-augmented-cicd/) | 25 Aug 2026 |
+| [Orchestrating AI Agents: A Subagent Architecture](https://clouatre.ca/posts/orchestrating-ai-agents-subagent-architecture/) | 13 Aug 2026 |
+| [Agent-Ready Websites: The 5-Layer Implementation Stack](https://clouatre.ca/posts/agent-ready-website/) | 09 Aug 2026 |
 <!-- recent-writing ends -->
 
 More on [clouatre.ca](https://clouatre.ca).
