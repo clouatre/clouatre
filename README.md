@@ -4,7 +4,7 @@ Former Director of Platform Engineering at Slalom, AWS Senior Manager, and Oracl
 
 Building AI tooling for engineering teams at [clouatre-labs](https://github.com/clouatre-labs).
 Contributor to the [Agentic AI Foundation](https://aaif.io/): MCP specification and the Goose agentic framework.
-Writing at [clouatre.ca](https://clouatre.ca).
+Writing at [clouatre.ca](https://clouatre.ca). Currently building x402 agent-payment infrastructure live on clouatre.ca and open-source AI coding agents ([aptu](https://github.com/clouatre-labs/aptu), [aptu-coder](https://github.com/clouatre-labs/aptu-coder)).
 
 **3 CIPO patents in agentic AI** | **35+ certifications** | **Fluent in English and French**
 
@@ -12,8 +12,9 @@ Writing at [clouatre.ca](https://clouatre.ca).
 
 | Post | Published |
 | --- | --- |
-| [AI SDLC Governance: Three Layers for Engineering Leaders](https://clouatre.ca/posts/ai-sdlc-governance-stack/) | 04 Aug 2026 |
-| [Context Engineering for Multi-Agent Reliability](https://clouatre.ca/posts/context-engineering-multi-agent-reliability/) | 24 Jul 2026 |
+| [x402 on Cloudflare Workers: AI Agents Pay Per Call in USDC](https://clouatre.ca/posts/agent-payments-x402/) | 23 Oct 2026 |
+| [How Much Tool Documentation Do AI Agents Actually Need?](https://clouatre.ca/posts/mcp-tool-docs/) | 19 Sep 2026 |
+| [Does WebMCP Pay Off for Content Sites?](https://clouatre.ca/posts/webmcp-beyond-checkout/) | 04 Oct 2026 |
 | [Orchestrating AI Agents: A Subagent Architecture](https://clouatre.ca/posts/orchestrating-ai-agents-subagent-architecture/) | 24 Dec 2025 |
-| [AI-Assisted Development: The Accountability Layer](https://clouatre.ca/posts/ai-assisted-development/) | 07 Nov 2025 |
-| [RAG for Legacy Systems: 7,432 Pages to 3s](https://clouatre.ca/posts/rag-legacy-systems/) | 23 Jan 2026 |
+| [Agent-Ready Websites: The 5-Layer Implementation Stack](https://clouatre.ca/posts/agent-ready-website/) | 09 Aug 2026 |
+| [Open-Weight LLMs Reach the Structured Output Quality Ceiling](https://clouatre.ca/posts/open-weights-structured-output-cost/) | 08 Jul 2026 |
